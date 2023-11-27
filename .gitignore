@@ -1,0 +1,16 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+bin
+.idea
+.vscode
+*.log
+/report/
+/reports/
+/trello-api/reports/
+/trello-api/allure-results/
+/trello-api/allure-report/
+/trello-mobile/allure-results/
+/trello-mobile/reports/
